@@ -27,14 +27,10 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 * Microsoft Power BI
 
-## Credits
-
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
 
 ## Badges
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ## Project Learnings
 
